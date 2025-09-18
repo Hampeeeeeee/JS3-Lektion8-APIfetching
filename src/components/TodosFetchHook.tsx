@@ -1,4 +1,4 @@
-import type { useFetchTodos } from "../hooks/useFetchTodos";
+import { useFetchTodos } from "../hooks/useFetchTodos";
 import LoadSpinner from "./LoadSpinner";
 
 
